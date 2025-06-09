@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nandha Kumar
 - 👀 I’m interested in developing applications
-- 🌱 I’m currently learning graphiql
 - 📫 Reach me on nandha.kumar@tringapps.com
 
 <!---
